@@ -1,0 +1,1 @@
+This lab stores code related with motion planning algorithms
