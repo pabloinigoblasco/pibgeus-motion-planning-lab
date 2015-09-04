@@ -1,6 +1,4 @@
 # Expansive State Tree with KD-Trees
-Automatically exported from code.google.com/p/pibgeus-motion-planning-lab
-
 A simple implementation of the EST algorithm with KD-Trees search. 
 It is just a simple experiment I made in 2009.
 
